@@ -12,7 +12,7 @@ export const products = [
         name: 'Beg Msala',
         price: 10,
         image: imageProduct1,
-        description: 'Mollit anim consectetur adipisicing aute pariatur ad mollit ad. Officia amet aliqua non laborum dolore sint sit eu sit sunt laboris. Dolor tempor ipsum culpa Lorem ipsum ullamco ullamco dolor sit do. Do proident quis ad laborum et proident laborum. Non voluptate eiusmod aute labore ea aute.',
+        description: ' Ku raaxayso dhadhanka dhabta ah ee cunto macaan! Dalbo maanta oo hel raashin cusub, caafimaad leh, oo diyaarsan si degdeg ah. Kaarboon yar, dhadhan weyn! Iska dhig gaajada oo naso adiga oo og inaad heli doonto cunto qiimo leh oo heer sare ah.',
         slug: 'hertfoid-upholstered-chair'
     },
     {
@@ -20,7 +20,7 @@ export const products = [
         name: 'Lemon Juice',
         price: 5,
         image: imageProduct2,
-        description: 'Mollit anim consectetur adipisicing aute pariatur ad mollit ad. Officia amet aliqua non laborum dolore sint sit eu sit sunt laboris. Dolor tempor ipsum culpa Lorem ipsum ullamco ullamco dolor sit do. Do proident quis ad laborum et proident laborum. Non voluptate eiusmod aute labore ea aute.',
+        description: 'Ku raaxayso dhadhanka dhabta ah ee cunto macaan! Dalbo maanta oo hel raashin cusub, caafimaad leh, oo diyaarsan si degdeg ah. Kaarboon yar, dhadhan weyn! Iska dhig gaajada oo naso adiga oo og inaad heli doonto cunto qiimo leh oo heer sare ah.',
         slug: 'bingdon-pholstered-chair-swivel'
     },
     {
@@ -28,7 +28,7 @@ export const products = [
         name: 'Jees Pasta',
         price: 11,
         image: imageProduct3,
-        description: 'Mollit anim consectetur adipisicing aute pariatur ad mollit ad. Officia amet aliqua non laborum dolore sint sit eu sit sunt laboris. Dolor tempor ipsum culpa Lorem ipsum ullamco ullamco dolor sit do. Do proident quis ad laborum et proident laborum. Non voluptate eiusmod aute labore ea aute.',
+        description: 'Ku raaxayso dhadhanka dhabta ah ee cunto macaan! Dalbo maanta oo hel raashin cusub, caafimaad leh, oo diyaarsan si degdeg ah. Kaarboon yar, dhadhan weyn! Iska dhig gaajada oo naso adiga oo og inaad heli doonto cunto qiimo leh oo heer sare ah.',
         slug: 'jeses-minimore-modern-style-etta'
     },
     {
@@ -36,7 +36,7 @@ export const products = [
         name: 'cheken rosta',
         price: 21,
         image: imageProduct4,
-        description: 'Mollit anim consectetur adipisicing aute pariatur ad mollit ad. Officia amet aliqua non laborum dolore sint sit eu sit sunt laboris. Dolor tempor ipsum culpa Lorem ipsum ullamco ullamco dolor sit do. Do proident quis ad laborum et proident laborum. Non voluptate eiusmod aute labore ea aute.',
+        description: 'Ku raaxayso dhadhanka dhabta ah ee cunto macaan! Dalbo maanta oo hel raashin cusub, caafimaad leh, oo diyaarsan si degdeg ah. Kaarboon yar, dhadhan weyn! Iska dhig gaajada oo naso adiga oo og inaad heli doonto cunto qiimo leh oo heer sare ah.',
         slug: 'eses-minimore-modern-style-zakari'
     },
     {
@@ -44,7 +44,7 @@ export const products = [
         name: 'Especial Cake',
         price: 25,
         image: imageProduct5,
-        description: 'Mollit anim consectetur adipisicing aute pariatur ad mollit ad. Officia amet aliqua non laborum dolore sint sit eu sit sunt laboris. Dolor tempor ipsum culpa Lorem ipsum ullamco ullamco dolor sit do. Do proident quis ad laborum et proident laborum. Non voluptate eiusmod aute labore ea aute.',
+        description: 'Ku raaxayso dhadhanka dhabta ah ee cunto macaan! Dalbo maanta oo hel raashin cusub, caafimaad leh, oo diyaarsan si degdeg ah. Kaarboon yar, dhadhan weyn! Iska dhig gaajada oo naso adiga oo og inaad heli doonto cunto qiimo leh oo heer sare ah.',
         slug: 'corrigan-studio-tufed-upholstered-wide-winback-armchair'
     },
     {
@@ -52,7 +52,7 @@ export const products = [
         name: 'chips masala',
         price: 12,
         image: imageProduct6,
-        description: 'Mollit anim consectetur adipisicing aute pariatur ad mollit ad. Officia amet aliqua non laborum dolore sint sit eu sit sunt laboris. Dolor tempor ipsum culpa Lorem ipsum ullamco ullamco dolor sit do. Do proident quis ad laborum et proident laborum. Non voluptate eiusmod aute labore ea aute.',
+        description: 'Ku raaxayso dhadhanka dhabta ah ee cunto macaan! Dalbo maanta oo hel raashin cusub, caafimaad leh, oo diyaarsan si degdeg ah. Kaarboon yar, dhadhan weyn! Iska dhig gaajada oo naso adiga oo og inaad heli doonto cunto qiimo leh oo heer sare ah.',
         slug: 'corrigan-studio-273-wide-armchair'
     },
     {
@@ -60,7 +60,7 @@ export const products = [
         name: 'Ice Coffee',
         price: 5.5,
         image: imageProduct7,
-        description: 'Mollit anim consectetur adipisicing aute pariatur ad mollit ad. Officia amet aliqua non laborum dolore sint sit eu sit sunt laboris. Dolor tempor ipsum culpa Lorem ipsum ullamco ullamco dolor sit do. Do proident quis ad laborum et proident laborum. Non voluptate eiusmod aute labore ea aute.',
+        description: 'Ku raaxayso dhadhanka dhabta ah ee cunto macaan! Dalbo maanta oo hel raashin cusub, caafimaad leh, oo diyaarsan si degdeg ah. Kaarboon yar, dhadhan weyn! Iska dhig gaajada oo naso adiga oo og inaad heli doonto cunto qiimo leh oo heer sare ah.',
         slug: 'leston-wide-upholstered-fabric'
     },
     {
@@ -68,7 +68,7 @@ export const products = [
         name: 'fish finger',
         price: 20,
         image: imageProduct8,
-        description: 'Mollit anim consectetur adipisicing aute pariatur ad mollit ad. Officia amet aliqua non laborum dolore sint sit eu sit sunt laboris. Dolor tempor ipsum culpa Lorem ipsum ullamco ullamco dolor sit do. Do proident quis ad laborum et proident laborum. Non voluptate eiusmod aute labore ea aute.',
+        description: 'Ku raaxayso dhadhanka dhabta ah ee cunto macaan! Dalbo maanta oo hel raashin cusub, caafimaad leh, oo diyaarsan si degdeg ah. Kaarboon yar, dhadhan weyn! Iska dhig gaajada oo naso adiga oo og inaad heli doonto cunto qiimo leh oo heer sare ah.',
         slug: 'stephanny-275-wide-tufted-armchair'
     },
 ];
